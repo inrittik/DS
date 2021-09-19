@@ -27,6 +27,9 @@ int isValidEmail(char* email){
         else if(at>dot){
             return 0;
         }
+        else if(dot== at+1){
+            return 0;
+        }
         else if(dot >= strlen(email)-1){
             return 0;
         }
