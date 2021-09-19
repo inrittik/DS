@@ -1,4 +1,4 @@
-/*Question:Write a C compiler to check whether a given number is a 
+/*Question: Write a C compiler to check whether a given number is a 
 valid floating point number or not. Write for all possible all test cases.*/
 
 #include <stdio.h>
