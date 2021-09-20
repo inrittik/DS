@@ -1,4 +1,4 @@
-##National Institute of Technology Silchar
+#National Institute of Technology Silchar
 
 MiniProject-I, 
 
